@@ -1,4 +1,7 @@
 #Github 官方入门教程（中文版）
+
+>官方英文版地址：https://guides.github.com/activities/hello-world/
+
 ** Hello World **工程是计算机编程学习的传统。它帮助你通过一个简单的练习入门一项新的编程技能。下面开始学习使用GitHub。
 
 ** 你将要学习到： **
